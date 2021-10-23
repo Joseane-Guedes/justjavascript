@@ -1,13 +1,13 @@
 /* notes: 
 1 - What's a mental model?
-Unfortunately, sometimes our mental models are wrong. Maybe a tutorial we read early on sacrificed accuracy in order to make a concept easier to explain. Maybe, when we started learning JavaScript, we incorrectly “brought over” an expected behavior from a language we learned earlier. Maybe we inferred a mental model from some piece of code but never really verified it was accurate.
+
 2 - Coding, fast and Slow
 
 https://www.reddit.com/r/learnjavascript/comments/f1scve/confusion_about_dan_abramovs_just_javascript/
 */
 
 /* 
-Imagine that you’re in the middle of a lot of work, and you want to quickly identify what this function does. Take a glance at it:
+Take a glance at it:
 
 function duplicateSpreadsheet(original) {
     console.log(copy)
